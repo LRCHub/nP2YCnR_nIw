@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "優しいあの子",
   "base_artist": "スピッツ",
-  "createdAt": "2026-04-02T23:12:22.799622Z",
+  "createdAt": "2026-04-02T23:52:39.471065Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -35,7 +35,7 @@
       "artist": "スピッツ",
       "has_synced": true,
       "path": "select/localdb_01_優しいあの子_スピッツ.lrc",
-      "repo_name": "RkIOd78C82I"
+      "repo_name": "nP2YCnR_nIw"
     },
     {
       "id": "localdb_2",
@@ -44,6 +44,15 @@
       "artist": "スピッツ",
       "has_synced": true,
       "path": "select/localdb_02_優しいあの子_スピッツ.lrc",
+      "repo_name": "RkIOd78C82I"
+    },
+    {
+      "id": "localdb_3",
+      "source": "localdb",
+      "title": "優しいあの子",
+      "artist": "スピッツ",
+      "has_synced": true,
+      "path": "select/localdb_03_優しいあの子_スピッツ.lrc",
       "repo_name": "5KsI2OLQMVY"
     }
   ]
